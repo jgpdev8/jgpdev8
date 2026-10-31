@@ -13,10 +13,10 @@ Desarrollador Full Stack con más de 3 años construyendo aplicaciones web y mó
 
 ## Proyectos
 
-**[Swapadel](https://apps.apple.com/es/app/swapadel/id6760138920)** · en producción<br>
+**[Swapadel](https://swapadel.com)** · en producción<br>
 App para intercambiar y probar palas de pádel, con match, chat y datos en tiempo real. Seguridad a nivel de fila (RLS) en PostgreSQL y notificaciones push.<br>
 `React Native` `Expo` `Next.js` `Supabase` `TypeScript`<br>
-[App Store](https://apps.apple.com/es/app/swapadel/id6760138920) · [Google Play](https://play.google.com/store/apps/details?id=com.palamatch.mobile&hl=es)
+[Web](https://swapadel.com) · [App Store](https://apps.apple.com/es/app/swapadel/id6760138920) · [Google Play](https://play.google.com/store/apps/details?id=com.palamatch.mobile&hl=es)
 
 **MPL · My Padel Lessons** · beta<br>
 App para dar y recibir clases de pádel, con agenda por sedes, API REST autenticada con JWT y pagos con Stripe.<br>
